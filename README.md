@@ -1,16 +1,18 @@
 ## Hi there 👋
+U.S. Air Force veteran transitioning into cybersecurity with hands-on 
+enterprise experience in vulnerability management and cloud security.
 
-<!--
-**giovannifenton-collab/giovannifenton-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🔭 Currently Working On
+- Cybersecurity Internship at Arch Capital Group (WIZ, Tenable, CrowdStrike)
+- CompTIA Security+ (SY0-701)
+- B.S. Cybersecurity and Information Assurance @ WGU
 
-Here are some ideas to get you started:
+🛠️ Tools & Technologies
+WIZ | Tenable | CrowdStrike Falcon | BitSight | AWS | Azure | CIS Controls
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📜 Certifications
+- CompTIA Network+ (2024)
+- CompTIA Security+ (In Progress)
+
+ 📫 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/giovanni-fenton-5807b8262)
